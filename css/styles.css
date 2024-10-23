@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ADEFD1FF;
+  color: #00203FFF;
+}
+
+.main-header {
+  font-family: 'Times New Roman', serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+ul {
+  border: 2px dashed #00203FFF;
+  width: 200px;
+  margin: 50px auto 0 auto;
+  padding: 20px 0 0 0;
+}
+
+ul li {
+  list-style: none;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+li a {
+  text-decoration: none;
+  color: #00203FFF;
+}
+
+a:hover {
+  background-color: yellow;
+}
